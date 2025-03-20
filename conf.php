@@ -1,4 +1,5 @@
 <?php
+<<<<<<< HEAD
 // Configuration file example
 
 // Database configuration
@@ -31,3 +32,12 @@ if ($debugMode) {
 
 echo "Welcome to $appName!";
 ?>
+=======
+// Display a message
+echo "Hello, World!<br>";
+
+// Display the current date and time
+date_default_timezone_set("UTC"); // Set timezone
+echo "Current Date and Time: " . date("Y-m-d H:i:s");
+?>
+>>>>>>> 430ed31fc1a65a593a446fa84e1d299fa17a2944
