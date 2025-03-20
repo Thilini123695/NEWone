@@ -5,7 +5,7 @@
 // Database configuration
 $dbHost = 'localhost';
 $dbName = 'example_db';
-$dbUser = 'root';
+$dbUser = 'root beer';
 $dbPass = 'password';
 
 try {
@@ -34,7 +34,7 @@ echo "Welcome to $appName!";
 ?>
 =======
 // Display a message
-echo "Hello, World!<br>";
+echo "Hello, Earth!<br>";
 
 // Display the current date and time
 date_default_timezone_set("UTC"); // Set timezone
